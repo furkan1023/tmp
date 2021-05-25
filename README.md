@@ -1,3 +1,3 @@
 # dnntrackD.py
 
-dnntrackD.py kodunu çalıştırmak için gerekli kütüphaneleri yüklemeniz ve tüm diğer dosyaları indirmeniz gerekmekte
+dnntrackD.py kodunu çalıştırmak için gerekli kütüphaneleri yüklenilmesi ve tüm diğer dosyaları indirmesi lazım
